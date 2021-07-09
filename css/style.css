@@ -1,0 +1,13 @@
+#year {
+    font-size: larger;
+    list-style-type: none;
+}
+
+#month {
+    list-style-type: none;
+}
+
+.main_image {
+    width: 100%;
+    margin: 0%;
+}
